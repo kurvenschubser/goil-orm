@@ -1,0 +1,16 @@
+﻿<settings>
+  <dbms>
+    <engine>
+      "Jet"
+    </engine>
+    <user>
+      "Admin"
+    </user>
+    <password>
+      ""
+    </password>
+    <name>
+      "C:/Users/malte/Desktop/raumplan_d_201201.mdb"
+    </name>
+  </dbms>
+</settings>
